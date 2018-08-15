@@ -14,7 +14,7 @@ $ cd ..
 $ ./normal
 ```
 
-For ``umatTest```
+For ```umatTest```
 ```
 $ cd umatTest
 $ mkdir build
